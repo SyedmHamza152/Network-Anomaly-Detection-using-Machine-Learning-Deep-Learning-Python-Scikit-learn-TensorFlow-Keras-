@@ -1,0 +1,2 @@
+# Network-Anomaly-Detection-using-Machine-Learning-Deep-Learning-Python-Scikit-learn-TensorFlow-Keras-
+Implemented multiple machine learning and deep learning models including Random Forest, Decision Tree, XGBoost, SVM, Logistic Regression, KNN, ANN, MLP, CNN, and RNN for anomaly detection in network traffic. Conducted comparative analysis to evaluate performance, accuracy, and generalization for robust cybersecurity threat detection insights.
